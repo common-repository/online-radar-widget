@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-03 12:05+0300\n"
+"PO-Revision-Date: 2017-05-03 12:05+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: class.onlineradar_widget_admin.php:68 class.onlineradar_widget_admin.php:173
+#: class.onlineradar_widget_widget.php:38
+msgid "Change widget"
+msgstr "Изменить виджет"
+
+#: class.onlineradar_widget_admin.php:85
+msgid "HTML block parametres:"
+msgstr "Параметры HTML блока:"
+
+#: class.onlineradar_widget_admin.php:87
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: class.onlineradar_widget_admin.php:93
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: class.onlineradar_widget_admin.php:99
+msgid "Hovered background color"
+msgstr "Цвет фона при наведении"
+
+#: class.onlineradar_widget_admin.php:105
+msgid "Counter color"
+msgstr "Цвет счетчика"
+
+#: class.onlineradar_widget_admin.php:111
+msgid "Counter background color"
+msgstr "Цвет фона счетчика"
+
+#: class.onlineradar_widget_admin.php:117
+msgid "Text font"
+msgstr "Шрифт текста"
+
+#: class.onlineradar_widget_admin.php:124
+msgid "Accommodation:"
+msgstr "Расположение:"
+
+#: class.onlineradar_widget_admin.php:126
+msgid "Location"
+msgstr "Положение"
+
+#: class.onlineradar_widget_admin.php:129
+msgid "In text"
+msgstr "В тексте"
+
+#: class.onlineradar_widget_admin.php:130
+msgid "Left"
+msgstr "Слева"
+
+#: class.onlineradar_widget_admin.php:131
+msgid "Right"
+msgstr "Справа"
+
+#: class.onlineradar_widget_admin.php:132
+msgid "Top"
+msgstr "Сверху"
+
+#: class.onlineradar_widget_admin.php:133
+msgid "Bottom"
+msgstr "Снизу"
+
+#: class.onlineradar_widget_admin.php:134
+msgid "Header"
+msgstr "Заголовок"
+
+#: class.onlineradar_widget_admin.php:135
+msgid "Footer"
+msgstr "Подвал"
+
+#: class.onlineradar_widget_admin.php:141
+msgid "Align"
+msgstr "Выравнивание"
+
+#: class.onlineradar_widget_admin.php:148
+msgid "Parametres:"
+msgstr "Параметры:"
+
+#: class.onlineradar_widget_admin.php:152
+msgid "Show the \"Close\" button on mouse over"
+msgstr "Показывать кнопку \"Закрыть\" при наведении"
+
+#: class.onlineradar_widget_admin.php:156
+msgid "Attach to the edge"
+msgstr "Прикрепить к краю"
+
+#: class.onlineradar_widget_admin.php:161
+msgid "Auto-hide"
+msgstr "Автоматически скрывать"
+
+#: class.onlineradar_widget_admin.php:167
+msgid "Preview:"
+msgstr "Предварительный просмотр:"
+
+#: class.onlineradar_widget_widget.php:12
+msgid "Online-Radar widget."
+msgstr "Виджет Online-Radar."

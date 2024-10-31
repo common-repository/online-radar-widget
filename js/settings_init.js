@@ -1,0 +1,1 @@
+var txtcolor_s = param.txtcolor,bgcolor_s = param.bgcolor,bghovercolor_s = param.bghovercolor,cntcolor_s = param.cntcolor,bgcntcolor_s = param.bgcntcolor,txtfont_s = param.txtfont,position_s = param.position;jQuery(document).ready(function(){init();});
